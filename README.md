@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="25" height="25"></a>
+<h4>Projects:</h4>
+
+<a href="https://github.com/MohitSinghvi/The-Snake" ><img src="https://github.com/MohitSinghvi/The-Snake/raw/master/Snake_screenshot.PNG?raw=true" width="100" height="100" 
+                                                          title="The Snake"></a>
+<a href="https://github.com/MohitSinghvi/Flappy-Bird" ><img src="https://github.com/MohitSinghvi/Flappy-Bird/raw/master/Flappy-Screenshot.PNG?raw=true" width="100" height="100"
+                                                            title="Flappy Bird"></a>
+<a href="https://github.com/MohitSinghvi/TicTacToe" ><img src="https://github.com/MohitSinghvi/TicTacToe/raw/master/tictactoeScreenshot.PNG?raw=true" width="100" height="100"
+                                                          title="TicTacToe"></a>
+<a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true" width="100" height="100"
+                                                      title="Mario"></a>
+
+<h4>Connect:</h4>
+<a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="25" height="25"
+                                                  title="Twitter"></a>
+</br>
+
 <!--
 **MohitSinghvi/MohitSinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
