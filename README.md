@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="25" height="25"></a>
 <!--
 **MohitSinghvi/MohitSinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
