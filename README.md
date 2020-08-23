@@ -13,9 +13,9 @@
                                                             title="Flappy Bird"></a>
  <a href="https://github.com/MohitSinghvi/TicTacToe" ><img src="https://github.com/MohitSinghvi/TicTacToe/raw/master/tictactoeScreenshot.PNG?raw=true"  height="100"
                                                           title="TicTacToe"></a>
- <a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true"  height="100"
+<!-- <a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true"  height="100"
                                                       title="Mario"></a>
-
+-->
 <h4>Connect:</h4>
 
 <a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="25" height="25"
