@@ -16,10 +16,20 @@
 <!-- <a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true"  height="100"
                                                       title="Mario"></a>
 -->
+<h4>Tech:</h4>
+
+<a href="#" ><img src="https://plumbr.io/app/uploads/2019/06/java.png" height="30" title="Java"></a>
+  <a href="#" ><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30"
+                                                  title="Python"></a>
+  <a href="#" ><img src="https://image.flaticon.com/icons/png/512/174/174836.png" height="30"
+                                                  title="Android"></a>
+  <a href="#" ><img src="https://image.flaticon.com/icons/svg/919/919830.svg" height="30"
+                                                  title="PHP"></a>
+                                               
 <h4>Connect:</h4>
 
-<a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="25" height="25"
-                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/mohit-singhvi-0656b813b/" ><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" width="25" height="25" title="LinkedIn"></a>
+<a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png"  height="25"
+                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/mohit-singhvi-0656b813b/" ><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" height="25" title="LinkedIn"></a>
 </br>
 
 <!--
