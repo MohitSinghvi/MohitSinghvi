@@ -29,7 +29,7 @@
 <h4>Connect:</h4>
 
 <a href="https://twitter.com/mohitsinghvi_" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png"  height="25"
-                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/mohit-singhvi-0656b813b/" ><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" height="25" title="LinkedIn"></a>
+                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/mohitsinghvi-" ><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" height="25" title="LinkedIn"></a>
 </br>
 
 <!--
