@@ -17,7 +17,7 @@
                                                       title="Mario"></a>
 -->
 <h4>Tech:</h4>
-
+<a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="30" title="Angular"></a>
 <a href="#" ><img src="https://plumbr.io/app/uploads/2019/06/java.png" height="30" title="Java"></a>
   <a href="#" ><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30"
                                                   title="Python"></a>
