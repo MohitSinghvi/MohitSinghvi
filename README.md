@@ -2,11 +2,15 @@
 
 <h4>Projects:</h4>
 
+<h5>Applications</h5>
+
 <a href="https://github.com/MohitSinghvi/ShopItWeb"  ><img src="https://github.com/MohitSinghvi/ShopItWeb/raw/master/Screenshots/resultpage.PNG?raw=true"          
                                                           height="100" title="Shopit (E-commerce Website)"></a>
    <a href="https://github.com/MohitSinghvi/ShopitApp" ><img src="https://github.com/MohitSinghvi/ShopitApp/raw/master/Screenshots/ShopitApp-01.png?raw=true"         
                                                           height="100" title="Shopit App"></a>                                                                   <a href="https://github.com/MohitSinghvi/Scraper-and-Searcher" ><img src="https://github.com/MohitSinghvi/Scraper-and-Searcher/raw/master/Screenshots/main-page.PNG?raw=true" 
                                                           height="100" title="Basic Search Engine"></a>
+                                                          
+ <h5>Games</h5>                       
  <a href="https://github.com/MohitSinghvi/The-Snake" ><img src="https://github.com/MohitSinghvi/The-Snake/raw/master/Snake_screenshot.PNG?raw=true"  height="100" 
                                                           title="The Snake"></a>
  <a href="https://github.com/MohitSinghvi/Flappy-Bird" ><img src="https://github.com/MohitSinghvi/Flappy-Bird/raw/master/Flappy-Screenshot.PNG?raw=true"  height="100"
