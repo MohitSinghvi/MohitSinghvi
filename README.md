@@ -23,7 +23,7 @@
                                                   title="Python"></a>
   <a href="#" ><img src="https://image.flaticon.com/icons/png/512/174/174836.png" height="30"
                                                   title="Android"></a>
-  <a href="#" ><img src="https://image.flaticon.com/icons/svg/919/919830.svg" height="30"
+  <a href="#" ><img src="https://www.php.net/images/logos/php-logo.svg" height="25"
                                                   title="PHP"></a>
                                                
 <h4>Connect:</h4>
