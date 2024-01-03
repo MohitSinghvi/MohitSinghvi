@@ -1,30 +1,30 @@
 ### Hi there 👋
-I am Mohit! a programmer passionate about projects solving impactful problems for the world.
+I am Mohit! a programmer passionate about projects which are solving impactful problems for the world.
 
 
 <h2>Projects:</h2>
 
-<h3>Facial Recognition based attendance management system: </h3>
+<h3>Facial recognition based attendance management system: </h3>
 <a href="https://github.com/MohitSinghvi/faceId-attendance-ui"  >
   <img src="https://github.com/MohitSinghvi/MohitSinghvi/assets/35193178/848e216f-9a68-4ae3-813a-163cf2ee83a1"          
                                                           height="225" title="Facial Recognition based attendance monitoring system">
 </a>
 <br>
-<h3>HR portal with Signle Sign On (SSO) Authentication:</h3>
+<h3>HR portal with Single Sign On (SSO) authentication:</h3>
 <a href="https://github.com/MohitSinghvi/hr-portal-gs" >
 <img  height="300" alt="HR - portal" src="https://github.com/MohitSinghvi/MohitSinghvi/assets/35193178/73180b1d-7681-4929-9aee-2ea38664599c" title="HR - portal"></a>      
 
-<h3>Shopit (E-commerce Website):</h3>
+<h3>Shopit (e-commerce website):</h3>
 <a href="https://github.com/MohitSinghvi/ShopItWeb"  ><img src="https://github.com/MohitSinghvi/ShopItWeb/raw/master/Screenshots/resultpage.PNG?raw=true"          
                                                           height="250" title="Shopit (E-commerce Website)"></a>
 
 
-  <h3>Shopit (Android App):</h3>
+  <h3>Shopit (android app):</h3>
    <a href="https://github.com/MohitSinghvi/ShopitApp" ><img src="https://github.com/MohitSinghvi/ShopitApp/raw/master/Screenshots/ShopitApp-01.png?raw=true"         
                                                           width="200" title="Shopit App"></a>
 
 
-  <h3>ScrapeIt (Search Engine):</h3>
+  <h3>ScrapeIt (search engine):</h3>
   <a href="https://github.com/MohitSinghvi/Scraper-and-Searcher" ><img src="https://github.com/MohitSinghvi/Scraper-and-Searcher/raw/master/Screenshots/main-page.PNG?raw=true" 
                                                           height="250" title="Basic Search Engine"></a>
 
