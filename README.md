@@ -7,7 +7,7 @@ I am Mohit! a programmer passionate about projects solving impactful problems fo
 <h3>Facial Recognition based attendance management system: </h3>
 <a href="https://github.com/MohitSinghvi/faceId-attendance-ui"  >
   <img src="https://github.com/MohitSinghvi/MohitSinghvi/assets/35193178/848e216f-9a68-4ae3-813a-163cf2ee83a1"          
-                                                          height="250" title="Facial Recognition based attendance monitoring system">
+                                                          height="225" title="Facial Recognition based attendance monitoring system">
 </a>
 <br>
 <h3>HR portal with Signle Sign On (SSO) Authentication:</h3>
