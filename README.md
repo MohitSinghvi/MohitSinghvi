@@ -42,8 +42,10 @@ I am Mohit! a programmer passionate about projects which are solving impactful p
                                                       title="Mario"></a>
 -->
 <h4>Tech:</h4>
-<a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="30" title="Angular"></a>
-<a href="#" ><img src="https://plumbr.io/app/uploads/2019/06/java.png" height="30" title="Java"></a>
+<a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="35" title="Angular"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="35" title="Java"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" title="AWS"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="30" title="NodeJs"></a>
   <a href="#" ><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30"
                                                   title="Python"></a>
   <a href="#" ><img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" height="30"
