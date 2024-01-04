@@ -31,17 +31,18 @@ I am Mohit! a programmer passionate about projects which are solving impactful p
 <img  width="400" src="https://github.com/MohitSinghvi/MohitSinghvi/assets/35193178/ac5818e2-5881-4ebd-8cbe-ada9182c1ff7">
 
 
- <h3>Games:</h3>                       
- <a href="https://github.com/MohitSinghvi/The-Snake" ><img src="https://github.com/MohitSinghvi/The-Snake/raw/master/Snake_screenshot.PNG?raw=true"  height="100" 
+ <h3>Games (built on pygame):</h3>                       
+ <a href="https://github.com/MohitSinghvi/The-Snake" ><img src="https://github.com/MohitSinghvi/The-Snake/raw/master/Snake_screenshot.PNG?raw=true"  height="200" 
                                                           title="The Snake"></a>
- <a href="https://github.com/MohitSinghvi/Flappy-Bird" ><img src="https://github.com/MohitSinghvi/Flappy-Bird/raw/master/Flappy-Screenshot.PNG?raw=true"  height="100"
+ <a href="https://github.com/MohitSinghvi/Flappy-Bird" ><img src="https://github.com/MohitSinghvi/Flappy-Bird/raw/master/Flappy-Screenshot.PNG?raw=true"  height="200"
                                                             title="Flappy Bird"></a>
- <a href="https://github.com/MohitSinghvi/TicTacToe" ><img src="https://github.com/MohitSinghvi/TicTacToe/raw/master/tictactoeScreenshot.PNG?raw=true"  height="100"
+ <a href="https://github.com/MohitSinghvi/TicTacToe" ><img src="https://github.com/MohitSinghvi/TicTacToe/raw/master/tictactoeScreenshot.PNG?raw=true"  height="200"
                                                           title="TicTacToe"></a>
 <!-- <a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true"  height="100"
                                                       title="Mario"></a>
 -->
-<h4>Tech:</h4>
+
+# <h4>Tech:</h4>
 <a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="35" title="Angular"></a>
 <a href="#" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="35" title="Java"></a>
 <a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" title="AWS"></a>
@@ -53,7 +54,7 @@ I am Mohit! a programmer passionate about projects which are solving impactful p
   <a href="#" ><img src="https://www.php.net/images/logos/php-logo.svg" height="25"
                                                   title="PHP"></a>
                                                
-<h4>Connect:</h4>
+# <h4>Connect:</h4>
 
 <a href="https://twitter.com/mohitsinghvi_" target="_blank" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png"  height="25"
                                                   title="Twitter"></a>  <a href="https://www.linkedin.com/in/imohitsinghvi" ><img src = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25" title="LinkedIn"></a>
