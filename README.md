@@ -2,6 +2,24 @@
 I am Mohit! a programmer passionate about projects which are solving impactful problems for the world.
 
 
+# <h4>Tech:</h4>
+<a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="35" title="Angular"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="35" title="Java"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" title="AWS"></a>
+<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="30" title="NodeJs"></a>
+  <a href="#" ><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30"
+                                                  title="Python"></a>
+  <a href="#" ><img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" height="30"
+                                                  title="Android"></a>
+  <a href="#" ><img src="https://www.php.net/images/logos/php-logo.svg" height="25"
+                                                  title="PHP"></a>
+                                               
+# <h4>Connect:</h4>
+
+<a href="https://twitter.com/mohitsinghvi_" target="_blank" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png"  height="25"
+                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/imohitsinghvi" ><img src = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25" title="LinkedIn"></a>
+
+
 <h2>Projects:</h2>
 
 <h3>Facial recognition based attendance management system: </h3>
@@ -41,23 +59,6 @@ I am Mohit! a programmer passionate about projects which are solving impactful p
 <!-- <a href="https://github.com/MohitSinghvi/Mario" ><img src="https://github.com/MohitSinghvi/Mario/raw/master/mario_screenshot.PNG?raw=true"  height="100"
                                                       title="Mario"></a>
 -->
-
-# <h4>Tech:</h4>
-<a href="#" ><img src="https://angular.io/assets/images/logos/angular/angular.png" height="35" title="Angular"></a>
-<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="35" title="Java"></a>
-<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" title="AWS"></a>
-<a href="#" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="30" title="NodeJs"></a>
-  <a href="#" ><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30"
-                                                  title="Python"></a>
-  <a href="#" ><img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" height="30"
-                                                  title="Android"></a>
-  <a href="#" ><img src="https://www.php.net/images/logos/php-logo.svg" height="25"
-                                                  title="PHP"></a>
-                                               
-# <h4>Connect:</h4>
-
-<a href="https://twitter.com/mohitsinghvi_" target="_blank" ><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png"  height="25"
-                                                  title="Twitter"></a>  <a href="https://www.linkedin.com/in/imohitsinghvi" ><img src = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25" title="LinkedIn"></a>
                                                   
                                                   
 </br>
