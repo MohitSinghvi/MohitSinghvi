@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mohit! a programmer passionate about projects which are solving impactful problems for the world.
+I am Mohit! a passionate programmer diving deep into core software engineering concepts and applying them to build projects with innovation and impact.
 
 
 # <h4>Tech:</h4>
